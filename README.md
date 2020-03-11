@@ -1,8 +1,9 @@
 # Digital-electronics-1
 
 
-(/06-display driver/wavedrom.png)
+! (/06-display driver/wavedrom.png)
 
+```
 {signal: [
   ['Digit position',
     {name: 'disp_dig_o(3)', wave: 'xx01..01..xx', },
@@ -25,3 +26,4 @@
   head: {
     text: '4ms   4ms   4ms   4ms   4ms   4ms   4ms   4ms',
   },
+```
